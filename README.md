@@ -1,6 +1,6 @@
-### Droll - simulated JS automation toolkit
+## Droll - simulated JS automation toolkit
 
-Droll was created for learning purposes. Topics including but not limited to Node.js' File System Module.
+Droll is meant to simulate automated toolkit functionalities (e.g: Gulp.js), while revisiting concepts such as the Fluent Design Pattern, and Node.js' File System Module.  
 
 See the blog post [here](https://zavjs.github.io/understanding-automated-toolkits)
 
