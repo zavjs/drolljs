@@ -1,4 +1,4 @@
-## Droll - simulated JS automation toolkit
+## Droll - simulated JS automation toolkit (2017)
 
 Droll is meant to simulate automated toolkit functionalities (e.g: Gulp.js), while revisiting concepts such as the Fluent Design Pattern, and Node.js' File System Module.  
 
